@@ -1,0 +1,46 @@
+Superposition state #1 for : (1|0⟩ +0|1⟩), with phase  of 0 is :
+# wave function for qubits with ids (least to most significant): 0
+∣0❭:     1.000000 +  0.000000 i  ==     ******************** [ 1.000000 ]     --- [  0.00000 rad ]
+∣1❭:     0.000000 +  0.000000 i  ==                          [ 0.000000 ]                   
+
+
+Superposition state #2 for : (0|0⟩ +1|1⟩), with phase  of 0 is :
+# wave function for qubits with ids (least to most significant): 0
+∣0❭:     0.000000 +  0.000000 i  ==     *                    [ 0.000000 ]     --- [  0.00000 rad ]
+∣1❭:     1.000000 +  0.000000 i  ==     ******************** [ 1.000000 ]     --- [  0.00000 rad ]
+
+
+Superposition state #3 for : (0.7071067811865475|0⟩ +0.7071067811865475|1⟩), with phase  of 0 is :
+# wave function for qubits with ids (least to most significant): 0
+∣0❭:     0.707107 +  0.000000 i  ==     ***********          [ 0.500000 ]     --- [  0.00000 rad ]
+∣1❭:     0.707107 +  0.000000 i  ==     **********           [ 0.500000 ]     --- [  0.00000 rad ]
+
+
+Superposition state #4 for : (-0.7071067811865475|0⟩ +0.7071067811865475|1⟩), with phase  of 0 is :
+# wave function for qubits with ids (least to most significant): 0
+∣0❭:    -0.707107 +  0.000000 i  ==     **********           [ 0.500000 ] ---     [  3.14159 rad ]
+∣1❭:     0.707107 +  0.000000 i  ==     ***********          [ 0.500000 ]     --- [  0.00000 rad ]
+
+
+Superposition state #5 for : (0.6|0⟩ +0.8|1⟩), with phase  of 0 is :
+# wave function for qubits with ids (least to most significant): 0
+∣0❭:     0.600000 +  0.000000 i  ==     ********             [ 0.360000 ]     --- [  0.00000 rad ]
+∣1❭:     0.800000 +  0.000000 i  ==     *************        [ 0.640000 ]     --- [  0.00000 rad ]
+
+
+Superposition state #6 for : (-0.8|0⟩ +-0.6|1⟩), with phase  of 0 is :
+# wave function for qubits with ids (least to most significant): 0
+∣0❭:    -0.800000 +  0.000000 i  ==     *************        [ 0.640000 ] ---     [  3.14159 rad ]
+∣1❭:    -0.600000 +  0.000000 i  ==     ********             [ 0.360000 ] ---     [  3.14159 rad ]
+
+
+Superposition state #7 for : (1|0⟩ +0|1⟩), with phase  of 1.5707963267948966 is :
+# wave function for qubits with ids (least to most significant): 0
+∣0❭:    -0.707107 +  0.000000 i  ==     ***********          [ 0.500000 ] ---     [  3.14159 rad ]
+∣1❭:     0.000000 +  0.707107 i  ==     **********           [ 0.500000 ]    ↑    [  1.57080 rad ]
+
+
+Superposition state #8 for : (0|0⟩ +1|1⟩), with phase  of 1.5707963267948966 is :
+# wave function for qubits with ids (least to most significant): 0
+∣0❭:     0.707107 +  0.000000 i  ==     **********           [ 0.500000 ]     --- [  0.00000 rad ]
+∣1❭:     0.000000 +  0.707107 i  ==     ***********          [ 0.500000 ]    ↑    [  1.57080 rad ]
