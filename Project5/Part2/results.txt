@@ -1,0 +1,20 @@
+Test run for /home/tony/QuantumComputing/ManningQ#Course/Project5 Grover-Arithrium/MySolution/Part2/MyTestsMariiaEverythingElseFullSolution/bin/Debug/netcoreapp3.1/Mykhailova_LP5_M2_Solution.dll(.NETCoreApp,Version=v3.1)
+Microsoft (R) Test Execution Command Line Tool Version 16.7.1
+Copyright (c) Microsoft Corporation.  All rights reserved.
+
+Starting test execution, please wait...
+
+A total of 1 test files matched the specified pattern.
+Testing Are All Digits Different for 2 digits...
+Testing for equation [15,56,-28]...
+   Test passed!
+Testing Are All Digits Different for 3 digits...
+   Test passed!
+Testing Are All Digits Different for 4 digits...
+   Test passed!
+   Test passed!
+
+Test Run Successful.
+Total tests: 2
+     Passed: 2
+ Total time: 12.0347 Seconds
