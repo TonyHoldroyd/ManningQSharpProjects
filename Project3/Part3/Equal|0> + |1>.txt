@@ -1,0 +1,5 @@
+Preparing superposition state 1/root2|0⟩ + 1/root2|1⟩...
+# wave function for qubits with ids (least to most significant): 0
+∣0❭:	 0.707107 +  0.000000 i	 == 	***********          [ 0.500000 ]     --- [  0.00000 rad ]
+∣1❭:	 0.707107 +  0.000000 i	 == 	**********           [ 0.500000 ]     --- [  0.00000 rad ]
+
