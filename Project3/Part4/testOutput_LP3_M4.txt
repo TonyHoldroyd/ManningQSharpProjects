@@ -1,0 +1,60 @@
+Test run for /home/tony/QuantumComputing/ManningQ#Course/Project3 Preparing a Quantum State/MySolution/Part4/Part4Test/bin/Debug/netcoreapp3.1/My_LP3M4.dll(.NETCoreApp,Version=v3.1)
+Microsoft (R) Test Execution Command Line Tool Version 16.7.1
+Copyright (c) Microsoft Corporation.  All rights reserved.
+
+Starting test execution, please wait...
+
+A total of 1 test files matched the specified pattern.
+Testing N = 1, amplitudes = [1,0]...
+Testing N = 2, amplitudes = [1,0,0,0]...
+We reqire N=1 and amplitudes =[1,0]
+We reqire N=2 and amplitudes =[1,0,0,0]
+   Test passed!
+Testing N = 1, amplitudes = [0,1]...
+We reqire N=1 and amplitudes =[0,1]
+   Test passed!
+Testing N = 1, amplitudes = [0.7071067811865475,0.7071067811865475]...
+We reqire N=1 and amplitudes =[0.7071067811865475,0.7071067811865475]
+   Test passed!
+Testing N = 1, amplitudes = [0.7071067811865475,-0.7071067811865475]...
+We reqire N=1 and amplitudes =[0.7071067811865475,-0.7071067811865475]
+   Test passed!
+Testing N = 1, amplitudes = [-0.8,-0.6]...
+We reqire N=1 and amplitudes =[-0.8,-0.6]
+   Test passed!
+   Test passed!
+Testing N = 2, amplitudes = [0,0,0,1]...
+We reqire N=2 and amplitudes =[0,0,0,1]
+   Test passed!
+Testing N = 2, amplitudes = [0,1,0,0]...
+We reqire N=2 and amplitudes =[0,1,0,0]
+   Test passed!
+Testing N = 2, amplitudes = [0,0,1,0]...
+We reqire N=2 and amplitudes =[0,0,1,0]
+   Test passed!
+Testing N = 2, amplitudes = [0.5,0.5,0.5,0.5]...
+We reqire N=2 and amplitudes =[0.5,0.5,0.5,0.5]
+   Test passed!
+Testing N = 2, amplitudes = [0.5,-0.5,-0.5,0.5]...
+We reqire N=2 and amplitudes =[0.5,-0.5,-0.5,0.5]
+   Test passed!
+Testing N = 2, amplitudes = [-0.5,-0.5,-0.5,-0.5]...
+We reqire N=2 and amplitudes =[-0.5,-0.5,-0.5,-0.5]
+   Test passed!
+Testing N = 2, amplitudes = [0.7071067811865475,0,0,0.7071067811865475]...
+We reqire N=2 and amplitudes =[0.7071067811865475,0,0,0.7071067811865475]
+   Test passed!
+Testing N = 2, amplitudes = [0.7071067811865475,0,0,-0.7071067811865475]...
+We reqire N=2 and amplitudes =[0.7071067811865475,0,0,-0.7071067811865475]
+   Test passed!
+Testing N = 2, amplitudes = [0,0.7071067811865475,0.7071067811865475,0]...
+We reqire N=2 and amplitudes =[0,0.7071067811865475,0.7071067811865475,0]
+   Test passed!
+Testing N = 2, amplitudes = [0,-0.7071067811865475,0.7071067811865475,0]...
+We reqire N=2 and amplitudes =[0,-0.7071067811865475,0.7071067811865475,0]
+   Test passed!
+
+Test Run Successful.
+Total tests: 2
+     Passed: 2
+ Total time: 1.9202 Seconds
