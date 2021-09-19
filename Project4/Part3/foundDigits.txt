@@ -1,0 +1,21 @@
+Solving equation 8x_0 + 4x_1 + 2 = 0 (mod 11)
+Using 2 iterations.
+The missing digits found are [6,7]
+0061967360
+Solving equation 8x_0 + 4x_1 + 2 = 0 (mod 11)
+Using 2 iterations.
+The missing digits found are [6,1]
+0061961360
+Solving equation 8x_0 + 4x_1 + 2 = 0 (mod 11)
+Using 2 iterations.
+The missing digits found are [6,10]
+006196X360
+Solving equation 8x_0 + 4x_1 + 2 = 0 (mod 11)
+Using 2 iterations.
+The missing digits found are [6,10]
+006196X360
+Preparing Q# environment...
+Solving equation 8x_0 + 4x_1 + 2 = 0 (mod 11)
+Using 2 iterations.
+The missing digits found are [6,5]
+0061965360
